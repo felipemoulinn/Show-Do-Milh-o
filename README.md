@@ -6,4 +6,5 @@
 | Guilherme Viana Fim                  | 24.00689-0 |
 | Gustavo Bettini Dominguez            | 24.01715-9 |
 | Pablo Henrique De Sousa Evangelista  | 24.00001-9 |
+| Lucas Scudeler de Andrade            | 25.00079-5 |
 
